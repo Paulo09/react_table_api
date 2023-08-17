@@ -1,6 +1,6 @@
 # react_table_api
 App para consumo de Api<br>
-
+Plugin: Snipet  -> Comando: rafc<br>
 Api: https://jsonplaceholder.typicode.com/users<br>
 Plugin: Snipet  -> Comando: rafc<br> 
 Criar com o Vit = npm create vite@latest<br>
