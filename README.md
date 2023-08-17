@@ -7,3 +7,4 @@ Criar com o Vit = npm create vite@latest<br>
 cd my-project (Entrar na aplicação)<br>
 npm install<br>
 npm run dev<br>
+https://reactrouter.com/en/main/start/tutorial<br>
